@@ -19,7 +19,7 @@ Issues, PRs, corrections, materials — all are welcome! 🎉 It's the community
 |44100573| 💾 Computer Organization Principle | Fall 2025| [CS:APP Labs] |
 |44100113| 🌐 Computer Networks | Fall 2025 | [FTP Lab] · [Router Lab] |
 |44100593| 🧾 Principles of Assembly and Compilation | Fall 2025 | [Compiler PAs] · [SysY] |
-|44100203| 🛠️ Software Engineering | Fall 2025 | [Quwan Chess] |
+|44100203| 🛠️ Software Engineering | Fall 2025 | [SE HWs] · [Quwan Chess] |
 |44100552| 🤖 Machine Learning | Spring 2026 | [Machine Learning PAs] |
 |34100173| 🗄️ Principles of Database Systems | Spring 2026 | [TDB Lab] |
 |44100603| 🧾 Software analysis and verification | Spring 2026 | [CMinor Verifier] |
@@ -46,6 +46,7 @@ Issues, PRs, corrections, materials — all are welcome! 🎉 It's the community
 [Automata Labs]: https://github.com/Erix8/thss-2025-automata
 [OOP PAs]: https://github.com/Erix8/thss-2024-oop
 [Android PAs]: https://github.com/Erix8/thss-2025-android
+[SE HWs]: https://github.com/Erix8/thss-2025-se
 [Quwan Chess]: https://github.com/401A-Coding/2025-QuwanXiangqi
 [Qiwen]: https://github.com/401A-Coding/2026-StoryTeller
 
