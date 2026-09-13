@@ -34,7 +34,7 @@ Issues, PRs, corrections, materials — all are welcome! 🎉 It's the community
 [CS:APP Labs]: https://github.com/Erix8/csapp3e-labs
 [Xv6 RISCV Labs]: https://github.com/Erix8/xv6-labs-2022
 [FTP Lab]: https://github.com/Erix8/thss-2025-FTPLab
-[Router Lab]: https://github.com/Erix8/cs118-SimpleRouter
+[Router Lab]: https://github.com/Erix8/thss-2025-SimpleRouter
 [TDB Lab]: https://github.com/Erix8/thss-2026-TDB
 [Compiler PAs]: https://github.com/Erix8/thss-2025-compiler
 [SysY]: https://github.com/401A-Coding/thss-2025-compiler-final
