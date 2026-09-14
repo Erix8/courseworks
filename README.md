@@ -24,7 +24,7 @@ Issues, PRs, corrections, materials — all are welcome! 🎉 It's the community
 |44100552| 🤖 Machine Learning | Spring 2026 | [Machine Learning PAs] |
 |34100173| 🗄️ Principles of Database Systems | Spring 2026 | [TDB Lab] |
 |44100603| 🧾 Software analysis and verification | Spring 2026 | [CMinor Verifier] |
-|44100612| 📱 Introduction to Mobile Application Development | Spring 2026 | [Android PAs] · [Story Teller] |
+|44100612| 📱 Introduction to Mobile Application Development | Spring 2026 | [Android PAs] · [Qiwen] |
 |44100512| 🗄️ Big Data System Software | Fall 2026 | 🔜 Incoming... |
 |44100102| 🤖 Introduction to Artificial Intelligence | Fall 2026 | 🔜 Incoming... |
 |84100343| 🧠 Deep Learning | Fall 2026 | 🔜 Incoming... |
@@ -49,7 +49,7 @@ Issues, PRs, corrections, materials — all are welcome! 🎉 It's the community
 [Android PAs]: https://github.com/Erix8/thss-2025-android
 [SE HWs]: https://github.com/Erix8/thss-2025-se
 [Quwan Chess]: https://github.com/401A-Coding/2025-QuwanXiangqi
-[Story Teller]: https://github.com/401A-Coding/2026-StoryTeller
+[Qiwen]: https://github.com/401A-Coding/2026-StoryTeller
 [Choose Your Seat]: https://github.com/401A-Coding/2025-Choose-Your-Seat
 
 > 📬 If you find a bug or have a better solution, don't hesitate to open an issue or PR — every contribution counts! 🌟
