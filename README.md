@@ -15,6 +15,7 @@ Issues, PRs, corrections, materials — all are welcome! 🎉 It's the community
 |44100582| 🧮 Introduction to Algorithms | Spring 2025 | [Algorithm PAs] |
 |34100053| ⚙️ Modern Operating System | Spring 2025 | [Xv6 RISCV Labs] |
 |44100563| 🔤 Formal Language & Automata | Spring 2025 | [Automata Labs] |
+|44100672| 🌐 Web Front-end Technology | Summer 2025 | [Choose Your Seat] |
 |34100152| 🤖 Practice of Programming | Summer 2025 | [AI Assistant] |
 |44100573| 💾 Computer Organization Principle | Fall 2025| [CS:APP Labs] |
 |44100113| 🌐 Computer Networks | Fall 2025 | [FTP Lab] · [Router Lab] |
@@ -23,7 +24,7 @@ Issues, PRs, corrections, materials — all are welcome! 🎉 It's the community
 |44100552| 🤖 Machine Learning | Spring 2026 | [Machine Learning PAs] |
 |34100173| 🗄️ Principles of Database Systems | Spring 2026 | [TDB Lab] |
 |44100603| 🧾 Software analysis and verification | Spring 2026 | [CMinor Verifier] |
-|44100612| 📱 Introduction to Mobile Application Development | Spring 2026 | [Android PAs] · [Qiwen] |
+|44100612| 📱 Introduction to Mobile Application Development | Spring 2026 | [Android PAs] · [Story Teller] |
 |44100512| 🗄️ Big Data System Software | Fall 2026 | 🔜 Incoming... |
 |44100102| 🤖 Introduction to Artificial Intelligence | Fall 2026 | 🔜 Incoming... |
 |84100343| 🧠 Deep Learning | Fall 2026 | 🔜 Incoming... |
@@ -48,7 +49,8 @@ Issues, PRs, corrections, materials — all are welcome! 🎉 It's the community
 [Android PAs]: https://github.com/Erix8/thss-2025-android
 [SE HWs]: https://github.com/Erix8/thss-2025-se
 [Quwan Chess]: https://github.com/401A-Coding/2025-QuwanXiangqi
-[Qiwen]: https://github.com/401A-Coding/2026-StoryTeller
+[Story Teller]: https://github.com/401A-Coding/2026-StoryTeller
+[Choose Your Seat]: https://github.com/401A-Coding/2025-Choose-Your-Seat
 
 > 📬 If you find a bug or have a better solution, don't hesitate to open an issue or PR — every contribution counts! 🌟
 
